@@ -1,31 +1,26 @@
-### Hi there 👋
-
-<!--
-**noth3dev/noth3dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center">
-<img width="800" src="https://raw.githubusercontent.com/innng/innng/master/assets/header.gif"/>
+
+  <h2>👋 Hi there! Welcome to my GitHub!</h2>
+  <h4>저의 비전은 혁신적이고 지속적인 소프트웨어 개발을 통해 인간의 삶을 긍정적으로 변화시키고 지속가능한 가치를 창출하는 것입니다.</h4>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=derp_p)](https://solved.ac/profile/derp_p)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=derp_p&theme=warm)
+
+  
+  <h2>📃 dev's community & log</h2>
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=noth3dev&theme=graywhite&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+  
+  <div>
+    <a href="mailto:harrisonthedev@naver.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/not_th3dev/">
+      <img src="https://img.shields.io/badge/Instagrame-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
+  </div>
+  <a href="https://noth3dev.github.io/ARTIST/">
+      <h2>Portfolio</h2>
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&anon=fadeIn&color=gradient)
+  
 </div>
-
-## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-madoka.gif"/> About me
-Non binary person • Brazilian • Back-end Software Engineer/DevOps • Computer Science undergraduate 
-
-## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-homura.gif"/> I like these technologies
-Python • Rust • Functional programming • CI/CD • Ansible • Cloud computing
-
-## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-mami.gif"/> I love
-Powerful women • Learning, exploring and challenging myself • Design, customization and colors • Games and animations • Linux
-
-## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-kyoko.gif"/> On my free time I like to
-Watch anime • Customize my Arch installation • Code • Listen to music • Play games
-
-## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Links
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/itsinnng)
-[![](https://img.shields.io/badge/-meetup-EE3E5D?style=flat-square)](https://www.meetup.com/members/262353843/)
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDFmwciy)
-[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridrosselis/badges)
-
------
-Credits: [innng](https://github.com/innng)
-
-Last Edited on: 30/08/2020
