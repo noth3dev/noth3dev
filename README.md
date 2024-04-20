@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
     <a href="https://www.instagram.com/not_th3dev/">
-      <img src="https://img.shields.io/badge/Instagrame-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
   </div>
   
